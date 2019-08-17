@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+#header {
+    background-color: white;
+}
+
+#header img {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.expense {
+    justify-content: space-between;
+    align-items: center;
+}

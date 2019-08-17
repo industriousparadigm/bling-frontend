@@ -1,2 +1,3 @@
-# bling-frontend
-A personal monies application 
+# Bling: front end
+
+A personal monies application

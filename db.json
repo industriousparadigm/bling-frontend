@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 12,
+      "entity": "Leon",
+      "date": "2019-08-13T21:24:00.725Z",
+      "category": "Food"
+    },
+    {
+      "id": 2,
+      "amount": 35,
+      "entity": "Sainsburys",
+      "date": "2019-08-13T21:24:00.725Z",
+      "category": "Groceries"
+    },
+    {
+      "id": 3,
+      "amount": -100,
+      "entity": "poker tournament win",
+      "date": "2019-08-13T21:24:00.725Z",
+      "category": "Gambling"
+    },
+    {
+      "id": 4,
+      "amount": 60,
+      "entity": "Fabric",
+      "date": "2019-08-13T21:24:00.725Z",
+      "category": "Social"
+    }
+  ]
+}
